@@ -11,6 +11,8 @@ export const ACTIONS = {
   EVALUATE: 'evaluate'
 }
 
+//You've got this
+
 function reducer(state, {type, payload})
 {
   switch(type)
